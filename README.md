@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ck-check" alt="ck-check" /></a> </p>
 
-- 🔭 I’m currently working on [Combinational](https://github.com/CK-Check/Backend-Train-Project)
+- 🔭 I’m currently working on [Combinational circuits](https://github.com/CK-Check/Backend-Train-Project)
 
 - 🌱 I’m currently learning **Verilog pipelining, Static timing analysis and CMOS.**
 
