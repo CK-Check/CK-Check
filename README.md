@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chetan G Kotangale</h1>
-<h3 align="center">A passionate frontend developer from India. I have the knowledge of React development, HTML, CSS and Javascipt.</h3>
+<h3 align="center">A passionate frontend developer from India. I have the knowledge of Digital Electronics, VLSI workflow, Verilog design and basics of Transistor level designing and layout.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ck-check" alt="ck-check" /></a> </p>
 
-- 🔭 I’m currently working on [backend development](https://github.com/CK-Check/Backend-Train-Project)
+- 🔭 I’m currently working on [Combinational](https://github.com/CK-Check/Backend-Train-Project)
 
-- 🌱 I’m currently learning **backend development, Express.js, Node.js and MongoDB.**
+- 🌱 I’m currently learning **Verilog pipelining, Static timing analysis and CMOS.**
 
 - 📫 How to reach me **chetankotangale24@gmail.com**
 
